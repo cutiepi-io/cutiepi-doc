@@ -9,6 +9,12 @@
 
 Please make sure the display is completely turned off after you shut down the device, otherwise it may drain the battery. 
 
+### Passive Heat Dissipation
+
+- Do not be alarmed if and when CutiePi gets hot at the back
+- This is by design, and is the expected behavior with the heat sink
+- To make CutiePi run cooler, you may lower the device’s power consumption by adjusting `Power Mode` in the Settings
+
 ### Software and Hardware 
 
 CutiePi tablet's operating system is running off the micro SD card, just like the Raspberry Pi. 
@@ -20,9 +26,3 @@ CutiePi tablet's operating system is running off the micro SD card, just like th
 ![](screenshots/sdcard-socket.jpg)
 
 You can find more information in [System Flashing](SystemFlashingGuide.md) and [Hardware Maintenance](HardwareMaintenanceGuide.md) guides. 
-
-### Passive Heat Dissipation
-
-- Do not be alarmed if and when CutiePi gets hot at the back
-- This is by design, and is the expected behavior with the heat sink
-- To make CutiePi run cooler, you may lower the device’s power consumption by adjusting `Power Mode` in the Settings
