@@ -61,7 +61,7 @@ Following packages has been preinstalled in the image:
 	sudo gpasswd -a pi render
     sudo gpasswd -a pi dialout
 
-# Desktop integration 
+### Desktop integration 
 
 A binary [cutoff](https://github.com/cutiepi-io/cutiepi-middleware/tree/master/cutoff) was added so systemd cuts the power before executing the actual system halt/poweroff: 
 
