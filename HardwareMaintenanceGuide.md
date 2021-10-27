@@ -1,5 +1,8 @@
 ## Hardware Maintenance Guide
 
+**Note:** Before continue, you must know what you are doing. 
+We do not provide any warranty or guarantee that the hardware will function properly after the following steps. 
+
 ### Tool needed 
 
 - Phillips-Head Screwdriver
