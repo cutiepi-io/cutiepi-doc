@@ -19,7 +19,7 @@ CutiePi tablet's operating system is running off the micro SD card, just like th
 
 ![](screenshots/sdcard-socket.jpg)
 
-You can find more information in [System Flashing](SystemFlashingGuide.md) and [Hardware Maintenance]() guides. 
+You can find more information in [System Flashing](SystemFlashingGuide.md) and [Hardware Maintenance](HardwareMaintenanceGuide.md) guides. 
 
 ### Passive Heat Dissipation
 
