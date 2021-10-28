@@ -1,10 +1,10 @@
 ## Hardware Maintenance Guide
 
-**Note: Before continue, you must know what you are doing. **
+**⚠️ Note: Before continue, you must know what you are doing.**
 
-Please understand that we can not provide any warranty or guarantee the hardware will still function properly after the following steps. 
+Please understand that we can not provide any warranty or guarantee the hardware will still function properly after applying the following steps. 
 
-Please use this guide at your own risk. 
+Please use this guide at your own risk.
 
 ### Tool needed 
 
