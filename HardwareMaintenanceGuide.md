@@ -10,8 +10,8 @@ We do not provide any warranty or guarantee that the hardware will function prop
 ### Steps 
 
 1. Turn the device off, and remove the micro SD card 
-2. Remove the four M3x8 screws (holding the hinge) on the top
-3. Remove the four M3x6 screws holding the back cover on the four corners, and place them on the side
+2. Unscrew the four M3x8 screws (holding the hinge) on the top
+3. Unscrew the four M3x6 screws holding the back cover on the four corners, and place them on the side
 
     ![](screenshots/hardware-screwdriver.png)
 
@@ -28,6 +28,11 @@ We do not provide any warranty or guarantee that the hardware will function prop
     ![](screenshots/hardware-connector.png)
     ![](screenshots/hardware-now-you-can-remove.png)
     
-7. Done. You may find CutiePi tablet's CAD drawing and 3D printable STL models in the [enclosure design repo](https://github.com/cutiepi-io/cutiepi-enclosure).
+7. Done! 
 
     ![](screenshots/hardware-disassembly.png)
+
+### What now? 
+
+- Checkout CutiePi tablet's CAD drawing and 3D printable STL models in the [enclosure design](https://github.com/cutiepi-io/cutiepi-enclosure) repo
+- Find schematic, BOM, and connectors information in the [cutiepi-board](https://github.com/cutiepi-io/cutiepi-board) repo 
