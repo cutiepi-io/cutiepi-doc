@@ -1,17 +1,20 @@
 ## Hardware Maintenance Guide
 
-**Note:** Before continue, you must know what you are doing. 
-We do not provide any warranty or guarantee that the hardware will function properly after the following steps. 
+**⚠️ Note: Before continue, you must know what you are doing.**
+
+Please understand that we can not provide any warranty or guarantee the hardware will still function properly after applying the following steps. 
+
+Please use this guide at your own risk.
 
 ### Tool needed 
 
-- Phillips-Head Screwdriver
+- Phillips-Head screwdriver
 
 ### Steps 
 
 1. Turn the device off, and remove the micro SD card 
-2. Unscrew the four M3x8 screws (holding the hinge) on the top
-3. Unscrew the four M3x6 screws holding the back cover on the four corners, and place them on the side
+2. Unscrew the four M3x8 screws (holding the hinge) on the top 
+3. Unscrew the four M3x6 screws on the corners, and place them aside
 
     ![](screenshots/hardware-screwdriver.png)
 
