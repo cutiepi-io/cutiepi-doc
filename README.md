@@ -1,28 +1,36 @@
 ## Quick Start Guide 
 
-### Turn It On or Off 
+- Name: CutiePi tablet
+- Model: CUTIEPI-01 
+- FCC ID: 2A3SP-CUTIEPI-01
 
-- Hold and press for 3s: Power on 
-- Short press: Sleep/Wake 
-- Hold and press for 6s: Bring up the poweroff UI  
-- Hold and press for 10s: Forcibly turn off the device 
+### Turning CutiePi On / Off
+
+- Power On: Press and hold for 3s 
+- Sleep/Wake: Short press
+- Force Shutdown: Press and hold for 10s 
 
 Please make sure the display is completely turned off after you shut down the device, otherwise it may drain the battery. 
 
-### Passive Heat Dissipation
+### Mind the Heat 
 
-- Do not be alarmed if and when CutiePi gets hot at the back
-- This is by design, and is the expected behavior with the heat sink
-- To make CutiePi run cooler, you may lower the device’s power consumption by adjusting `Power Mode` in the Settings
+Do not be alarmed if the back of the CutiePi gets hot: 
 
-### Software and Hardware 
+- This is by design. This means that the heat sink is doing its job 
+- If you wish, you may cool down CutiePi by by adjusting the `Power Mode` in the Settings
 
-CutiePi tablet's operating system is running off the micro SD card, just like the Raspberry Pi. 
+### In Case of Software Upgrade 
 
-- The card socket is located at the bottom right corner of the device
-- It's spring loaded, a gentle push would release it 
-- Insert it back with the card facing down 
+Just like Raspberry Pi, the CutiePi's OS runs on a micro SD card: 
+
+- The SD card slot is located in the lower right corner of the device 
+- It is spring loaded, and can be released with a gentle push 
+- Insert the card face down 
 
 ![](screenshots/sdcard-socket.jpg)
 
 You can find more information in [System Flashing](SystemFlashingGuide.md) and [Hardware Maintenance](HardwareMaintenanceGuide.md) guides. 
+
+### Compliance 
+
+This device complies with part 15 of the FCC Rules. Operation is subject to the condition that this device does not cause harmful interference (1) this device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation. Any changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment.
