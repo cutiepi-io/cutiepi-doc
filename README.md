@@ -10,7 +10,7 @@
 - Sleep/Wake: Short press
 - Force Shutdown: Press and hold for 10s 
 
-Please make sure the display is completely turned off after you shut down the device, otherwise it may drain the battery. 
+Please make sure the display is completely turned off after it was shutting down, otherwise it may drain the battery. 
 
 ### Mind the Heat 
 
