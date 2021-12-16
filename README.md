@@ -1,7 +1,5 @@
 ## CutiePi tablet - User Manual
 
-![](https://cutiepi.io/assets/pictures/cutiepi-heroshot.png)
-
 - Name: CutiePi tablet
 - Model: `CUTIEPI-01`
 - FCC ID: `2A3SP-CUTIEPI-01`
@@ -43,8 +41,6 @@ You can find more information in [System Flashing](SystemFlashingGuide.md) guide
 
 ## CutiePi shell - the user interface 
 
-![](https://cutiepi.io/assets/pictures/cutiepi-software.png) 
-
 CutiePi shell, our mobile UI powered by the open source Qt framework, turns Raspberry Pi OS into a functional tablet UX while maintaining compatibility.
 It has most basic functions covered, from typing a command in terminal, connecting to a WiFi hotspot, to logging into web.
 
@@ -79,3 +75,10 @@ Please refer to the [Hardware Maintenance](HardwareMaintenanceGuide.md) guide fo
 ### Compliance 
 
 This device complies with part 15 of the FCC Rules. Operation is subject to the condition that this device does not cause harmful interference (1) this device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation. Any changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment.
+
+## Support 
+
+For any suggestions or software related questions, please join the community chat: [https://t.me/cutiepi_io](https://t.me/cutiepi_io) 
+For any non-software related questions please mail to [hello@cutiepi.io](mailto:hello@cutiepi.io) 
+
+Happy Hacking!
