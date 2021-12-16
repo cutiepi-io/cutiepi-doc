@@ -1,8 +1,20 @@
-## Quick Start Guide 
+## CutiePi tablet - User Manual
+
+![](https://cutiepi.io/assets/pictures/cutiepi-heroshot.png)
 
 - Name: CutiePi tablet
-- Model: CUTIEPI-01 
-- FCC ID: 2A3SP-CUTIEPI-01
+- Model: `CUTIEPI-01`
+- FCC ID: `2A3SP-CUTIEPI-01`
+
+## Introduction
+
+CutiePi is a Raspberry Pi 4 based tablet powered by the Compute Module 4. It has a 5000mAh li-po battery, an 8 inch multi-touch display with 1280 x 800 resolution, and a handle that also doubles as a stand.
+
+The tablet also has a built-in gyroscope, a rear-view camera, a microphone and a speaker, you can simply carry or use it like your everyday gadgets.
+
+## How to Get Started with your CutiePi
+
+![](screenshots/cutiepi-manual-instruction.png)
 
 ### Turning CutiePi On / Off
 
@@ -27,9 +39,42 @@ Just like Raspberry Pi, the CutiePi's OS runs on a micro SD card:
 - It is spring loaded, and can be released with a gentle push 
 - Insert the card face down 
 
-![](screenshots/sdcard-socket.jpg)
+You can find more information in [System Flashing](SystemFlashingGuide.md) guide.
 
-You can find more information in [System Flashing](SystemFlashingGuide.md) and [Hardware Maintenance](HardwareMaintenanceGuide.md) guides. 
+## CutiePi shell - the user interface 
+
+![](https://cutiepi.io/assets/pictures/cutiepi-software.png) 
+
+CutiePi shell, our mobile UI powered by the open source Qt framework, turns Raspberry Pi OS into a functional tablet UX while maintaining compatibility.
+It has most basic functions covered, from typing a command in terminal, connecting to a WiFi hotspot, to logging into web.
+
+### Features 
+
+- Lockscreen with sleep/wake button events handling
+- Web browser, terminal emulator, and on-screen keyboard
+- Built-in adblocker, using ABP-compatible filters
+- Side-tab for multitasking
+- WiFi configurator
+- Battery charging status and level reading 
+- Orientation sensor support (accelerometer and gyroscope)
+
+| Screenshot | Description |
+|----------+-------------|
+| ![](screenshots/lockscreen.png) | Lockscreen, swipe from bottom to top to unlock the screen. You can change the wallpaper in Settings. | 
+| ![](screenshots/system-status.png) | Show the system status by tapping at the upper right corner, you can control the audio volume, orientation lock, system brightness and wifi here.| 
+| ![](screenshots/virtualkeyboard.png) | Tap on any input field in the shell will bring up the virtual keyboard. Tap on the "🌐" icon at the bottom left will bring up the language selector.|
+| ![](screenshots/webbrowser-url.png) | Typing in the URL bar will bring up the history view. | 
+| ![](screenshots/tab-view.png) | Tap on the upper left corner "☰" icon will open the side tabs view. You can open/close tab or switch to different tabs here. |
+| ![](screenshots/new-tab.png) | Long press on "➕ New Tab" will open up a terminal emulator tab. A termanl layout keyboard will show up accordingly. | 
+| ![](screenshots/settings.png) | The Settings view gives you more controls over the system, for example airplane mode, timezone, and power mode. | 
+| ![](screenshots/desktop-toggle.png) |  You can click on the "Switch to Desktop now" button to toggle shell or desktop UI. |
+| ![](screenshots/power-off.png) |  Press and hold the power button for 6 seconds to bring up this power off view.  |
+
+## Cautions  
+
+We expect and even encourage you to experiment with the software and hardware. That said, please keep in mind that the device is under standard warranty, so breaking components during disassembly is a subject to voiding your warranty. We trust this is common sense. 
+
+Please refer to the [Hardware Maintenance](HardwareMaintenanceGuide.md) guide for more information.
 
 ### Compliance 
 

@@ -25,4 +25,6 @@ We recommend using Pi Imager or Etcher:
 
 Select the OS image, and click `Write`. 
 
+![](screenshots/flashing.png)
+
 When it's done, insert the card back to CutiePi tablet with the card facing down. 
