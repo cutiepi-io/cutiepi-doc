@@ -59,7 +59,7 @@ It has most basic functions covered, from typing a command in terminal, connecti
 - Orientation sensor support (accelerometer and gyroscope)
 
 | Screenshot | Description |
-|----------+-------------|
+| ------------- | ------------- |
 | ![](screenshots/lockscreen.png) | Lockscreen, swipe from bottom to top to unlock the screen. You can change the wallpaper in Settings. | 
 | ![](screenshots/system-status.png) | Show the system status by tapping at the upper right corner, you can control the audio volume, orientation lock, system brightness and wifi here.| 
 | ![](screenshots/virtualkeyboard.png) | Tap on any input field in the shell will bring up the virtual keyboard. Tap on the "🌐" icon at the bottom left will bring up the language selector.|
