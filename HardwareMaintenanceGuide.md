@@ -2,7 +2,8 @@
 
 **⚠️ Note: Before continue, you must know what you are doing.**
 
-Please understand that we can not provide any warranty or guarantee the hardware will still function properly after applying the following steps. 
+We expect and even encourage you to experiment with the software and hardware. 
+That said, please keep in mind that the device is under standard warranty, so breaking components during disassembly is a subject to voiding your warranty. We trust this is common sense.
 
 Please use this guide at your own risk.
 
