@@ -2,8 +2,7 @@
 
 **⚠️ Note: Before continue, you must know what you are doing.**
 
-We expect and even encourage you to experiment with the software and hardware. 
-That said, please keep in mind that the device is under standard warranty, so breaking components during disassembly is a subject to voiding your warranty. We trust this is common sense.
+We expect and even encourage you to experiment with the software and hardware. With that said, please keep in mind that the device is under standard warranty. This means breaking components during disassembly will void your warranty.
 
 Please use this guide at your own risk.
 
