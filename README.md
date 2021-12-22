@@ -14,22 +14,22 @@ The tablet also has a built-in gyroscope, a rear-view camera, a microphone and a
 
 ![](screenshots/cutiepi-manual-instruction.png)
 
-### Turning CutiePi On / Off
+### 🔋 Turning CutiePi On / Off
 
-- Power On: Press and hold for 3s 
+- Power On: Press and hold for `3s` 
 - Sleep/Wake: Short press
-- Force Shutdown: Press and hold for 10s 
+- Force Shutdown: Press and hold for `10s`
 
 Please make sure the display is completely turned off after it was shutting down, otherwise it may drain the battery. 
 
-### Mind the Heat 
+### ⚠️ Mind the Heat 
 
 Do not be alarmed if the back of the CutiePi gets hot: 
 
 - This is by design. This means that the heat sink is doing its job 
 - If you wish, you may cool down CutiePi by by adjusting the `Power Mode` in the Settings
 
-### In Case of Software Upgrade 
+### 💾 In Case of Software Upgrade 
 
 Just like Raspberry Pi, the CutiePi's OS runs on a micro SD card: 
 

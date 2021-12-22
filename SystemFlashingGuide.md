@@ -4,10 +4,10 @@
 
 Currently there are two variants of system image, both in beta stage: 
 
-- [Raspberry Pi OS with CutiePi shell](https://drive.google.com/file/d/1BfXrdC2TshKuaOj5p7D4a3c6twBfNYid)
+- [Raspberry Pi OS with CutiePi shell](https://github.com/cutiepi-io/pi-gen_stage4.5-cutiepi/releases/download/2021-12-21/raspios-cutiepi-arm64-1221.zip)
 
-        File: raspios-cutiepi-arm64-1215.img.xz (992MB)
-        SHA1: ef7d968f74b9313867cf46c839a40d899d957c53
+        File: raspios-cutiepi-arm64-1221.zip (1.2G)
+        SHA1: 53679a4098283d3c31f0fb2a739134169c1cf908
 
 - [Ubuntu Desktop 21.04](https://drive.google.com/file/d/1FnndGdWcw_qGXAdusFi8fYCWpVzwp3ci)
 
