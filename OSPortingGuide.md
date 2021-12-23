@@ -14,7 +14,7 @@ Please use it as a reference for porting other OSes onto the CutiePi tablet.
 
 ### Drivers 
 
-The needed display driver and overlay has been merged into Raspberry Pi's official linux tree (rpi-5.10.y branch). We kept the driver and overlay filess in in the [cutiepi-drivers](https://github.com/cutiepi-io/cutiepi-drivers) repo for reference. 
+The needed display driver and overlay has been merged into Raspberry Pi's official linux tree (rpi-5.10.y branch). We kept the driver and overlay files in the [cutiepi-drivers](https://github.com/cutiepi-io/cutiepi-drivers) repo for reference. 
 
 Two device tree overlays (for display, and gyro) needed: 
 
