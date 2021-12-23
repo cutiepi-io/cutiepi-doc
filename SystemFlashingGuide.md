@@ -2,9 +2,9 @@
 
 ### Download the system image 
 
-Currently there are two variants of system image, both in beta stage: 
+Currently there are two variants of system image for CutiePi tablet, both in beta: 
 
-- [Raspberry Pi OS with CutiePi shell](https://github.com/cutiepi-io/pi-gen_stage4.5-cutiepi/releases/download/2021-12-21/raspios-cutiepi-arm64-1221.zip)
+- [Raspberry Pi OS arm64 bullseye + CutiePi shell](https://github.com/cutiepi-io/pi-gen_stage4.5-cutiepi/releases/tag/2021-12-21)
 
         File: raspios-cutiepi-arm64-1221.zip (1.2G)
         SHA1: 53679a4098283d3c31f0fb2a739134169c1cf908

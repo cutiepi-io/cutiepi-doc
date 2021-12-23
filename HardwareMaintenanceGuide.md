@@ -1,14 +1,19 @@
 ## Hardware Maintenance Guide
 
-**⚠️ Note: Before continue, you must know what you are doing.**
+**Note: Before continue, you must know what you are doing!**
 
-We expect and even encourage you to experiment with the software and hardware. With that said, please keep in mind that the device is under standard warranty. This means breaking components during disassembly will void your warranty.
+We expect and even encourage you to experiment with the software and hardware of CutiePi. With that said, please keep in mind that the device is under standard warranty. This means breaking components during disassembly will void your warranty.
 
-Please use this guide at your own risk.
+### FCC Compliance 
 
-### Tool needed 
+This device complies with part 15 of the FCC Rules. Operation is subject to the condition that this device does not cause harmful interference (1) this device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation. Any changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment.
 
-- Phillips-Head screwdriver
+Please use this guide at your own risk. 
+
+### Tools needed 
+
+- Screwdriver for M3 Phillips Screws 
+- Patience and a steady hands
 
 ### Steps 
 
@@ -18,15 +23,16 @@ Please use this guide at your own risk.
 
     ![](screenshots/hardware-screwdriver.png)
 
-4. Put your fingernail or a card in the seam between the back cover and the case on the top, carefully release the snaps around the four edges of device
+4. Put your fingernail or a card in the seam between the back cover and the case on the top, carefully release the snaps around the four edges of device, there are 9 of them: 
 
+    ![](screenshots/snaps.png)
     ![](screenshots/hardware-snap.png)
 
-5. Gently lift up the back cover, **DO NOT REMOVE IT YET**
+5. Gently lift up the back cover, **DO NOT REMOVE IT YET**! As two cables are connected from the cover to the board, the L-shape camera cable is short and would break if you lift it up too high.
 
     ![](screenshots/hardware-lift.png)
 
-6. Disconnect two connectors (for the speaker and camera) before removing the back cover 
+6. Here we disconnect the two cables' connectors before removing the back cover 
 
     ![](screenshots/hardware-connector.png)
     ![](screenshots/hardware-now-you-can-remove.png)
@@ -37,5 +43,10 @@ Please use this guide at your own risk.
 
 ### What now? 
 
-- Checkout CutiePi tablet's CAD drawing and 3D printable STL models in the [enclosure design](https://github.com/cutiepi-io/cutiepi-enclosure) repo
-- Find schematic, BOM, and connectors information in the [cutiepi-board](https://github.com/cutiepi-io/cutiepi-board) repo 
+- This is a good time to swap the Compute Module 4, the battery (requires desoldering), or the camera module 
+- You can flash or tweak the [firmware for CutiePi board](https://github.com/cutiepi-io/cutiepi-firmware), with a ST-Link V2 flasher and a PH1.0 4p cable
+- In case you want to 3D print or modify your enclosure, please checkout CAD drawing and 3D printable STL models in the [enclosure design](https://github.com/cutiepi-io/cutiepi-enclosure) repo 
+
+    ![](screenshots/cad.png)
+
+- For schematic, BOM, and gerber files, please find it in the [cutiepi-board](https://github.com/cutiepi-io/cutiepi-board) repo 

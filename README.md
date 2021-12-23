@@ -1,35 +1,33 @@
 ## CutiePi tablet - User Manual
 
+CutiePi tablet is a 100% open source Raspberry Pi 4 tablet powered by the Compute Module 4. It has a 5000mAh li-po battery, an 8 inch multi-touch display with 1280 x 800 resolution, and a handle that also doubles as a stand.
+
+The tablet also has a built-in gyroscope, a rear-view camera, a microphone and a speaker, you can simply carry or use it like your everyday gadgets.
+
 - Name: CutiePi tablet
 - Model: `CUTIEPI-01`
 - FCC ID: `2A3SP-CUTIEPI-01`
 
-## Introduction
-
-CutiePi is a Raspberry Pi 4 based tablet powered by the Compute Module 4. It has a 5000mAh li-po battery, an 8 inch multi-touch display with 1280 x 800 resolution, and a handle that also doubles as a stand.
-
-The tablet also has a built-in gyroscope, a rear-view camera, a microphone and a speaker, you can simply carry or use it like your everyday gadgets.
-
-## How to Get Started with your CutiePi
+## How to Get Started with your CutiePi tablet
 
 ![](screenshots/cutiepi-manual-instruction.png)
 
-### 🔋 Turning CutiePi On / Off
+### Turning CutiePi On / Off
 
-- Power On: Press and hold for `3s` 
+- Power On: Press and hold for `3s` till the backlight turns on
 - Sleep/Wake: Short press
-- Force Shutdown: Press and hold for `10s`
+- Force Shutdown: Press and hold for `10s` till the backlight turns off 
 
-Please make sure the display is completely turned off after it was shutting down, otherwise it may drain the battery. 
+Please make sure the display is completely turned off after it's shutting down, otherwise it may drain the battery. 
 
-### ⚠️ Mind the Heat 
+### Mind the Heat 
 
 Do not be alarmed if the back of the CutiePi gets hot: 
 
 - This is by design. This means that the heat sink is doing its job 
 - If you wish, you may cool down CutiePi by by adjusting the `Power Mode` in the Settings
 
-### 💾 In Case of Software Upgrade 
+### In Case of Software Upgrade 
 
 Just like Raspberry Pi, the CutiePi's OS runs on a micro SD card: 
 
@@ -37,24 +35,14 @@ Just like Raspberry Pi, the CutiePi's OS runs on a micro SD card:
 - It is spring loaded, and can be released with a gentle push 
 - Insert the card face down 
 
-You can find more information in [System Flashing](SystemFlashingGuide.md) guide.
+You can find the latest image download link in the [System Flashing](SystemFlashingGuide.md) guide. 
 
 ## CutiePi shell - the user interface 
 
 CutiePi shell, our mobile UI powered by the open source Qt framework, turns Raspberry Pi OS into a functional tablet UX while maintaining compatibility.
 It has most basic functions covered, from typing a command in terminal, connecting to a WiFi hotspot, to logging into web.
 
-### Features 
-
-- Lockscreen with sleep/wake button events handling
-- Web browser, terminal emulator, and on-screen keyboard
-- Built-in adblocker, using ABP-compatible filters
-- Side-tab for multitasking
-- WiFi configurator
-- Battery charging status and level reading 
-- Orientation sensor support (accelerometer and gyroscope)
-
-| Screenshot | Description |
+| Feature | Description |
 | ------------- | ------------- |
 | ![](screenshots/lockscreen.png) | Lockscreen, swipe from bottom to top to unlock the screen. You can change the wallpaper in Settings. | 
 | ![](screenshots/system-status.png) | Show the system status by tapping at the upper right corner, you can control the audio volume, orientation lock, system brightness and wifi here.| 
@@ -66,19 +54,29 @@ It has most basic functions covered, from typing a command in terminal, connecti
 | ![](screenshots/desktop-toggle.png) |  You can click on the "Switch to Desktop now" button to toggle shell or desktop UI. |
 | ![](screenshots/power-off.png) |  Press and hold the power button for 6 seconds to bring up this power off view.  |
 
-## Cautions  
+## Open Source Repository
+
+- Hardware - [CutiePi board](https://github.com/cutiepi-io/cutiepi-board) 
+- Enclosure - [CutiePi enclosure](https://github.com/cutiepi-io/cutiepi-enclosure)
+- Firmware - [CutiePi firmware](https://github.com/cutiepi-io/cutiepi-firmware)
+- Drivers - [CutiePi drivers](https://github.com/cutiepi-io/cutiepi-drivers) (already upstreamed) 
+- Middleware - [CutiePi middleware](https://github.com/cutiepi-io/cutiepi-middleware)
+- User Interface - [CutiePi shell](https://github.com/cutiepi-io/cutiepi-shell) 
+- Build system - [pi-gen stage4.5](https://github.com/cutiepi-io/pi-gen_stage4.5-cutiepi) 
+
+## About Warranty
 
 We expect and even encourage you to experiment with the software and hardware. With that said, please keep in mind that the device is under standard warranty. This means breaking components during disassembly will void your warranty.
 
 Please refer to the [Hardware Maintenance](HardwareMaintenanceGuide.md) guide for more information.
 
-### Compliance 
+### FCC Compliance 
 
 This device complies with part 15 of the FCC Rules. Operation is subject to the condition that this device does not cause harmful interference (1) this device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation. Any changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment.
 
-## Support 
+## Support and Contact 
 
-For any suggestions or software related questions, please join the community chat: [https://t.me/cutiepi_io](https://t.me/cutiepi_io) 
-For any non-software related questions please mail to [hello@cutiepi.io](mailto:hello@cutiepi.io) 
+- [Telegram group chat](https://t.me/cutiepi_io) - for community, support, or software related questions
+- Mail to [hello@cutiepi.io](mailto:hello@cutiepi.io) - for any non-software related questions
 
 Happy Hacking!
