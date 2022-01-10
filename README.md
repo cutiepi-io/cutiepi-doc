@@ -6,8 +6,8 @@ The tablet also has a built-in gyroscope, a rear-view camera, a microphone and a
 
 ## Before You Begin 
 
-- Charge your CutiePi after unboxing - Make sure you're using a regular `5V 3A` power supply, as some fast charger for phones might not work
-- Update your SD card - Follow the [System Flasing Guide](https://github.com/cutiepi-io/cutiepi-doc/blob/main/SystemFlashingGuide.md) to download and flash the latest system
+- Charge your CutiePi after unboxing - Make sure you're using a regular `5V 3A` power supply, as some fast charger for phones may not work
+- Update your SD card - Follow the [System Flashing Guide](https://github.com/cutiepi-io/cutiepi-doc/blob/main/SystemFlashingGuide.md) to download and flash the latest system
 
 ## Need Any Help? 
 
@@ -24,7 +24,7 @@ The tablet also has a built-in gyroscope, a rear-view camera, a microphone and a
 - Sleep/Wake: Short press on the power button 
 - Force Shutdown: Press and hold the power button for `10s` till the backlight turns off 
 
-When in doubt of the hardware status, we recommend to do the power cycle: force shutdown (press and hold for 10s), release, then power on. 
+When in doubt of the hardware status, we recommend doing a power cycle: force shutdown (press and hold for 10s), release, then power on. 
 
 ### Mind the Heat 
 
