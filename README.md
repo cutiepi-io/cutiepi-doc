@@ -4,11 +4,10 @@ CutiePi tablet is a 100% open source Raspberry Pi 4 tablet powered by the Comput
 
 The tablet also has a built-in gyroscope, a rear-view camera, a microphone and a speaker, you can simply carry or use it like your everyday gadgets.
 
-
 ## Before You Begin 
 
 - Charge your CutiePi after unboxing - Make sure you're using a regular `5V 3A` power supply, as some fast charger for phones might not work
-- Update your SD card - Follow the [System Flasing Guide](https://github.com/cutiepi-io/cutiepi-doc/blob/main/SystemFlashingGuide.md) to download and flash the latest SD card image
+- Update your SD card - Follow the [System Flasing Guide](https://github.com/cutiepi-io/cutiepi-doc/blob/main/SystemFlashingGuide.md) to download and flash the latest system
 
 ## Need Any Help? 
 
@@ -25,7 +24,7 @@ The tablet also has a built-in gyroscope, a rear-view camera, a microphone and a
 - Sleep/Wake: Short press on the power button 
 - Force Shutdown: Press and hold the power button for `10s` till the backlight turns off 
 
-When in doubt of the hardware status, we recommend to do the power cycle: force shutdown (press and hold for 10s, release), then power on. 
+When in doubt of the hardware status, we recommend to do the power cycle: force shutdown (press and hold for 10s), release, then power on. 
 
 ### Mind the Heat 
 
@@ -44,10 +43,9 @@ Just like Raspberry Pi, the CutiePi's OS runs on a micro SD card:
 
 You can find the latest image download link in the [System Flashing](SystemFlashingGuide.md) guide. 
 
-## The user interface 
+## The User Interface 
 
-CutiePi shell, our mobile UI powered by the open source Qt framework, turns Raspberry Pi OS into a functional tablet UX.
-It has most basic functions: 
+CutiePi shell, our mobile UI powered by the open source Qt framework, turns Raspberry Pi OS into a functional tablet UX. It has most basic functions: 
 
 | Feature | Description |
 | ------------- | ------------- |
@@ -63,9 +61,10 @@ It has most basic functions:
 
 If you wish to customize your own system, or to port other OSes onto CutiePi, please check the [OS Porting Guide](https://github.com/cutiepi-io/cutiepi-doc/blob/main/OSPortingGuide.md). 
 
-## Open Source Repository
+## Project Structure
 
-CutiePi tablet is 100% open source hardware and software. To customize or report an isssue, please find the corresponding repository on Github: 
+CutiePi tablet is a 100% open source hardware. 
+To customize a component or report an isssue, please find the corresponding repository on Github: 
 
 - Hardware - [CutiePi board](https://github.com/cutiepi-io/cutiepi-board) 
 - Enclosure - [CutiePi enclosure](https://github.com/cutiepi-io/cutiepi-enclosure)
@@ -82,7 +81,6 @@ We expect and even encourage you to experiment with the software and hardware. W
 Please refer to the [Hardware Maintenance](HardwareMaintenanceGuide.md) guide for more information.
 
 ### FCC Compliance 
-
 
 - Name: CutiePi tablet
 - Model: `CUTIEPI-01`
