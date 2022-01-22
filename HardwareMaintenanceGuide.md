@@ -4,16 +4,16 @@
 
 We expect and even encourage you to experiment with the software and hardware of CutiePi. With that said, please keep in mind that the device is under standard warranty. This means breaking components during disassembly will void your warranty.
 
+Please use this guide at your own risk. 
+
 ### FCC Compliance 
 
 This device complies with part 15 of the FCC Rules. Operation is subject to the condition that this device does not cause harmful interference (1) this device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation. Any changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment.
 
-Please use this guide at your own risk. 
-
 ### Tools needed 
 
 - Screwdriver for M3 Phillips Screws 
-- Patience and a steady hands
+- Patience and steady hands
 
 ### Steps 
 
