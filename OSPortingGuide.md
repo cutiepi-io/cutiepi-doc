@@ -70,13 +70,6 @@ Following packages has been preinstalled in the image:
     sudo gpasswd -a pi dialout
     sudo gpasswd -a pi input
 
-A gsettings file was added to set the default screen orientation lock: 
-
-    .config/dconf/user
-
-This can be set manually: 
-`gsettings set org.gnome.settings-daemon.peripherals.touchscreen orientation-lock true` 
-
 ### System configuration 
 
 A binary [cutoff](https://github.com/cutiepi-io/cutiepi-middleware/tree/master/cutoff) was added so systemd cuts the power while executing the actual system halt/poweroff: 
