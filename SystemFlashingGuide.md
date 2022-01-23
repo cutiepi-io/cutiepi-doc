@@ -7,7 +7,7 @@ Latest system image for CutiePi tablet (`2022-01-23`):
 - [Raspberry Pi OS arm64 bullseye + CutiePi shell](https://github.com/cutiepi-io/pi-gen_stage4.5-cutiepi/releases/tag/2022-01-23)
 
         File: raspios-cutiepi-arm64-0123.zip (1.2G)
-        SHA1: 1aa3fdae3c2d202e8f52c5ebd23b7063206a3b6f
+        SHA1: ebf56b192ef969ef8bce87b185c3d776a44ba6d0
 
 ### Download the image writer
 
