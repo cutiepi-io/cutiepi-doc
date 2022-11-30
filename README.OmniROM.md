@@ -6,7 +6,7 @@ If you setup a new system there are two steps you need to do
 https://dl.omnirom.org/tmp/rpi4/omni-rpi4-cutiepi-recovery.img.zip
 
 2) a recovery flashable zip of the build you want to install eg
-https://dl.omnirom.org/tmp/rpi4/omni-12-<date>-<type>.zip
+`https://dl.omnirom.org/tmp/rpi4/omni-12-<date>-<type>.zip` (ex. https://dl.omnirom.org/tmp/rpi4/omni-13-20221126-rpi4-MICROG.zip - see https://dl.omnirom.org/tmp/rpi4/ for a list).
 
 Step 1 - flashing TWP
 -unzip recovery image downloaded from 1 and flash to your new system storage device SD
@@ -40,4 +40,4 @@ Follow step 2 above from initial install
 - batter status updates happens every 30s only eg plug and unplug
 - cutoff power not supported
 - wireless adb is enabled by default using <ip>:5555
-- with 2MB memory its generally not reecommended to use GAPPS builds
+- with 2GB memory its generally not reecommended to use GAPPS builds
